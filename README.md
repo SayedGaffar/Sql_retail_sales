@@ -82,3 +82,7 @@ Leveraged window functions for cumulative analysis
 Implemented time-based data slicing using EXTRACT
 
 Used CASE statements to create dynamic grouping
+
+✅ Author: Sayed Abdul Gaffar
+🎯 Role: Data Analyst Intern @ TechNest
+📅 Project: SQL Retail sales analysis
